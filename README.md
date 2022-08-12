@@ -4,6 +4,6 @@
 - You can check one hole at a time.
 - Every time you check a hole the rabbit jumps to an adjacent hole.
 
-## Find the rabbit
+<h2 align="center">Find the damn Rabbit </h2>
 
 ![bunny hopping](./assets/bunny.gif)
